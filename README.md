@@ -23,7 +23,4 @@ Welcome to the Snake Water Gun (Rock Paper Scissors) game! This is a simple comm
 ```bash
 python snake_water_gun.py
 
-## Game Rules
-1.Rock (R) beats Scissors (S)
-2.Scissors (S) beats Paper (P)
-3.Paper (P) beats Rock (R)
+
